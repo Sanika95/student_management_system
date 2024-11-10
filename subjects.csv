@@ -1,0 +1,51 @@
+subject_id,subject_name,class_id
+1,Hindi,4
+2,English,5
+3,Maths,6
+4,Science,12
+5,Sanskrit,3
+6,Social Studies,1
+7,History,3
+8,Geography,12
+9,Civic,10
+10,Biology,1
+11,Physics,5
+12,Chemistry,9
+13,Mathematics I,12
+14,Mathematics II,8
+15,Mathematics III,3
+16,Fundamentals of Accounting,11
+17,Financial Accounting,5
+18,Taxation,5
+19,Cost Accounting,7
+20,Management Accounting,8
+21,Corporate Accounting,8
+22,Environmental Studies,8
+23,Computer Science,2
+24,Physical Educations,12
+25,Arts,12
+26,Business Studies,6
+27,Economics,10
+28,Entrepreneurship ,9
+29,Political Science,7
+30,Psychology ,9
+31,Sociology ,10
+32,Fine Arts,11
+33,Home Science,9
+34,Philosophy ,1
+35,Ethics and Human Values,10
+36,Media Studies,5
+37,Biotechnology,8
+38,Geology,4
+39,Statistics,12
+40,International Relations,8
+41,Marketing Management,12
+42,Public Administration,7
+43,Tourism and Hospitality,2
+44,Graphic Design,12
+45,Data Science,3
+46,Agricultural Science,8
+47,Data Analytics,8
+48,Python,1
+49,Artificial Intelligence,6
+50,Deep Learning,3
